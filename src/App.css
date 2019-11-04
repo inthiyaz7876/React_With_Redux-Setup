@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+  background: #1474a4 !important;
+}
+
+.row.footer {
+  height: 180px;
+  color: #fff;
+  background-color: #0096ee;
+  background-repeat: repeat-x;
+  background: linear-gradient(to bottom right,#003655 0,#0066a1 50%,#0096ee 100%);
+}

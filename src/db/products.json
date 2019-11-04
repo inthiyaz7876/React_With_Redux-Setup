@@ -1,0 +1,29 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name" : "Ironbox",
+            "price" : 200,
+            "image" : "https://images.philips.com/is/image/PhilipsConsumer/HD1172_00-IMS-en_IN?$pnglarge$&extendN=0.1,0.1,0.1,0.1&wid=220&hei=160"
+        },
+        {
+            "id" : 2,
+            "prise": 300,
+            "name" : "Water Purefier",
+            "image" : "https://images.philips.com/is/image/PhilipsConsumer/WP3893_01-IMS-en_IN?$pnglarge$&extendN=0.1,0.1,0.1,0.1&wid=220&hei=160"
+        },
+        {
+            "id" : 3,
+            "price": 400,
+            "name" : "Mixer Grainder",
+            "image" : "https://images.philips.com/is/image/PhilipsConsumer/HD7692_90-IMS-en_IN?$pnglarge$&extendN=0.1,0.1,0.1,0.1&wid=220&hei=160"
+        },
+        {
+            "id" : 4,
+            "price": 500,
+            "name" : "Grainder",
+            "image" : "https://images.philips.com/is/image/PhilipsConsumer/HD8325_01-IMS-en_IN?$pnglarge$&extendN=0.1,0.1,0.1,0.1&wid=220&hei=160"
+        }
+
+    ]
+}
